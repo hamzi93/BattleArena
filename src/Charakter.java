@@ -15,7 +15,9 @@ public class Charakter {
         this.lebenspunkte -= punkte;
     }
 
-    public void angreifen(Charakter gegner){}
+    public void angreifen(Charakter gegner){
+
+    }
 
     public String getName(){
         return this.name;
