@@ -16,5 +16,7 @@ public class Main {
         drache.spezialFähigkeitAktiv();
         System.out.println(drache.getLebenspunkte());
 
+
+
     }
 }
