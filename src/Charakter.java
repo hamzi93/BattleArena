@@ -37,4 +37,6 @@ public class Charakter {
         this.spezialFähigkeit = true;
     }
 
+    public void setSpezialFähigkeitDeaktivieren(){this.spezialFähigkeit = false;}
+
 }
